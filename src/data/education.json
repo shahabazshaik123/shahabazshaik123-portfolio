@@ -1,0 +1,50 @@
+[
+  {
+    "id": "edu-bsc",
+    "degree": "B.Sc. in Mathematics, Electronics and Computer Science",
+    "institution": "Sri Venkateswara University, Tirupati",
+    "institutionType": "Undergraduate Degree",
+    "graduationYear": "2021",
+    "aggregate": "76%",
+    "description": "Comprehensive academic foundation in computational theory, discrete mathematics, digital electronics, software development, and algorithm design.",
+    "coursework": [
+      "Computer Science Fundamentals",
+      "Data Structures & Algorithms",
+      "Digital Electronics & Microprocessors",
+      "Discrete & Applied Mathematics"
+    ],
+    "isVerified": true
+  },
+  {
+    "id": "edu-intermediate",
+    "degree": "Higher Secondary / Intermediate",
+    "institution": "Board of Intermediate Education",
+    "institutionType": "Intermediate Certificate",
+    "graduationYear": "2018",
+    "completionYear": "2018",
+    "aggregate": "86%",
+    "description": "Graduated with 86% aggregate in the Mathematics, Physics, and Chemistry (MPC) academic stream, developing analytical and problem-solving rigor.",
+    "coursework": [
+      "Mathematics (Calculus & Algebra)",
+      "Physics",
+      "Chemistry"
+    ],
+    "isVerified": true
+  },
+  {
+    "id": "edu-ssc",
+    "degree": "Secondary School Certificate (SSC)",
+    "institution": "Board of Secondary Education",
+    "institutionType": "Secondary School Certificate",
+    "graduationYear": "2016",
+    "completionYear": "2016",
+    "aggregate": "83%",
+    "description": "Completed secondary education with 83% aggregate, establishing a strong foundation in science, mathematics, and analytical reasoning.",
+    "coursework": [
+      "Mathematics",
+      "General Science",
+      "Social Studies"
+    ],
+    "isVerified": true
+  }
+]

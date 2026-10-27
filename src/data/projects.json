@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ezstaf-platform",
+    "title": "EZSTAF — AI Recruitment & Applicant Platform",
+    "summary": "An AI-enabled recruitment platform with an LLM chatbot, MCP tools, and vector-based candidate matching.",
+    "description": "EZSTAF is an end-to-end recruitment platform streamlining applicant and recruiter workflows. Built with a cross-platform Flutter mobile client and a high-performance Python FastAPI backend, it integrates a Mistral-powered chatbot with Model Context Protocol (MCP) servers and RAG candidate matching using Sentence Transformers and Pinecone.",
+    "category": "Mobile & AI Applications",
+    "categoryBadge": "AI, Mobile & Backend",
+    "tags": ["Flutter", "Python", "FastAPI", "Mistral", "MCP", "Pinecone", "Sentence Transformers", "PostgreSQL"],
+    "status": "Active Architecture",
+    "featured": true,
+    "icon": "Briefcase",
+    "keyFeatures": [
+      "LLM-powered recruitment chatbot for candidates and recruiters using Mistral and MCP servers",
+      "AI job-matching and candidate ranking powered by Sentence Transformers embeddings and Pinecone",
+      "End-to-end job application submission, tracking, and interview coordination workflows",
+      "Layered Flutter/Dart client architecture communicating via typed RESTful JSON contracts",
+      "FastAPI asynchronous backend with complex PostgreSQL schemas and foreign-key relationships",
+      "Global search powered by Elasticsearch and cloud storage with Neon PostgreSQL"
+    ],
+    "architectureDetails": [
+      "AI / LLM Layer: Mistral LLM connected to MCP tools for tool-calling recruitment workflows",
+      "Vector Search: Sentence Transformers embeddings with Pinecone vector database for RAG retrieval",
+      "Mobile Client: Layered Flutter/Dart architecture with responsive multi-role screens",
+      "Backend API: Asynchronous FastAPI endpoints with Pydantic validation schemas",
+      "Database Store: Neon PostgreSQL relational schemas with foreign-key dependencies"
+    ]
+  },
+  {
+    "id": "applicant-management-system",
+    "title": "Applicant Management System",
+    "summary": "A full-featured recruitment platform organizing applicant records, job postings, interview scheduling, and candidate progress.",
+    "description": "A centralized management system engineered to organize candidate pipelines, manage applicant profiles, schedule evaluation rounds, and track decisions across recruitment stages. Built with a modular React frontend and a FastAPI backend with relational PostgreSQL storage.",
+    "category": "Full-Stack Applications",
+    "categoryBadge": "Full-Stack Web App",
+    "tags": ["React", "FastAPI", "PostgreSQL", "REST APIs", "SQLAlchemy", "Neon DB"],
+    "status": "Production Workflow",
+    "featured": true,
+    "icon": "Users",
+    "keyFeatures": [
+      "Centralized candidate profile repository with complete applicant history",
+      "Job posting creation, lifecycle management, and publishing",
+      "Multi-stage interview scheduling and candidate evaluation tracking",
+      "FastAPI REST endpoints with request/response handling through defined JSON contracts",
+      "Relational PostgreSQL schema with foreign-key dependencies and indexing"
+    ],
+    "architectureDetails": [
+      "Frontend: Responsive React dashboard with modular component hierarchy",
+      "API Layer: RESTful endpoints with Pydantic input/output schemas",
+      "Data Store: PostgreSQL relational database with foreign key constraints and indexes"
+    ]
+  },
+  {
+    "id": "semantic-knowledge-search",
+    "title": "AI-Powered Knowledge & Semantic Search",
+    "summary": "A project concept demonstrating how text can be converted into dense embeddings to power semantic vector search and contextual retrieval.",
+    "description": "A project prototype demonstrating vector-based semantic retrieval. It takes text documents, generates dense numerical embeddings using Sentence Transformers, indexes the vectors in Pinecone, and enables natural language similarity queries that go beyond exact keyword matching.",
+    "category": "AI Applications",
+    "categoryBadge": "AI & Vector Search",
+    "tags": ["Python", "Sentence Transformers", "Embeddings", "Pinecone", "FastAPI"],
+    "status": "Concept / Prototype",
+    "featured": true,
+    "icon": "Brain",
+    "keyFeatures": [
+      "Dense text vector generation using open-source Sentence Transformer models",
+      "Vector indexing and approximate nearest neighbor (ANN) retrieval in Pinecone",
+      "Natural language semantic query matching surpassing lexical keyword search",
+      "FastAPI endpoint for document ingestion, embedding, and vector querying",
+      "Cosine similarity scoring for contextual relevance evaluation"
+    ],
+    "architectureDetails": [
+      "Embedding Model: Sentence Transformers model running locally for inference",
+      "Vector Store: Pinecone cloud index with cosine distance metric",
+      "API Gateway: FastAPI microservice exposing search and ingestion endpoints"
+    ]
+  },
+  {
+    "id": "data-engineering-pipeline",
+    "title": "Data Engineering Pipeline",
+    "summary": "A data engineering project demonstrating ingestion, transformation, validation, and analytics-ready data processing.",
+    "description": "A data engineering template demonstrating structured data processing workflows. Demonstrates ingesting raw dataset files from AWS S3, applying schema validation and business logic transformations using Python and SQL, and loading analytics-ready tables into Snowflake.",
+    "category": "Data Engineering",
+    "categoryBadge": "Data Pipeline",
+    "tags": ["Snowflake", "SQL", "Python", "Snowpark", "AWS S3", "PySpark"],
+    "status": "Pipeline Template",
+    "featured": true,
+    "icon": "Database",
+    "keyFeatures": [
+      "Raw data staging and batch ingestion from cloud object storage (AWS S3)",
+      "Declarative SQL and Python data transformations for schema standardization",
+      "Automated data validation checks for null values, duplicates, and type consistency",
+      "Snowflake warehouse architecture design for analytical querying",
+      "Snowpark and PySpark compatibility for scalable distributed execution"
+    ],
+    "architectureDetails": [
+      "Storage: AWS S3 raw staging bucket",
+      "Transformation Engine: SQL transformations and Python scripts (Snowpark / PySpark)",
+      "Data Warehouse: Snowflake structured tables optimized for analytical reporting"
+    ]
+  }
+]

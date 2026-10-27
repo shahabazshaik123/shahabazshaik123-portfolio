@@ -1,0 +1,34 @@
+[
+  {
+    "id": "exp-nevonex",
+    "role": "AI Full Stack Developer",
+    "company": "Nevonex",
+    "employmentType": "Full-Time Engineering",
+    "startDate": "Oct 2024",
+    "endDate": "Present",
+    "location": "Hyderabad, India",
+    "summary": "Engineering AI-enabled features, full-stack application modules, and intelligent candidate matching for the EZSTAF recruitment platform.",
+    "responsibilities": [
+      "Developed a full-featured Applicant Management System to streamline end-to-end recruitment and hiring workflows.",
+      "Integrated an LLM-powered chatbot for both recruiters and applicants using Mistral and MCP servers, enabling the chatbot to access tools relevant to recruitment workflows.",
+      "Worked on AI job-matching and candidate-matching workflows using retrieval-augmented generation (RAG), Sentence Transformers embeddings, and the Pinecone vector database to retrieve and rank relevant candidates.",
+      "Developed and integrated REST APIs using FastAPI, supporting application workflows and communication between the frontend and backend, with request/response data handled through defined JSON contracts.",
+      "Worked with complex PostgreSQL schemas and table relationships, including foreign-key dependencies, to support consistent data retrieval and reliable connections across recruitment-related entities.",
+      "Implemented Flutter/Dart frontend integrations following the project’s layered architecture, and used Neon PostgreSQL, Elasticsearch for global search, Git/GitHub and Git Bash for version-control workflows, and Postman for API testing."
+    ],
+    "technologies": [
+      "Python",
+      "FastAPI",
+      "Flutter",
+      "PostgreSQL",
+      "Neon DB",
+      "Mistral",
+      "MCP",
+      "Pinecone",
+      "Sentence Transformers",
+      "Elasticsearch",
+      "REST APIs"
+    ],
+    "isVerified": true
+  }
+]

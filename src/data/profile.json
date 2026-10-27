@@ -1,0 +1,96 @@
+{
+  "name": "Shaik Shahabaz",
+  "primaryTitle": "AI Engineer & Full-Stack Developer",
+  "alternativeHeadline": "Building intelligent applications, scalable backend systems, and modern user experiences.",
+  "introduction": [
+    "I am a developer focused on building AI-enabled applications, reliable backend APIs, database-driven systems, and responsive web and mobile experiences. I work across application architecture, backend engineering, data management, and AI integration to turn ideas into practical software products.",
+    "My technical background bridges computational science, backend API engineering with FastAPI and Python, cross-platform mobile development with Flutter, and data engineering pipelines. I am passionate about crafting modular architectures, resilient database schemas, and intuitive digital interfaces."
+  ],
+  "location": "Hyderabad, India",
+  "locationDetails": "Hyderabad, India (Open to Remote & Global Opportunities)",
+  "availability": "Available for Opportunities",
+  "email": "shahabaz.shaik812@gmail.com",
+  "phone": "9381004512",
+  "hasResume": true,
+  "resumeUrl": "/resume/Shaik_Shahabaz_Resume.pdf",
+  "interests": [
+    "AI-powered application development",
+    "LLM chatbot workflows & MCP tools",
+    "Backend engineering with FastAPI",
+    "Candidate matching & vector retrieval",
+    "Mobile development with Flutter",
+    "Relational databases & Neon DB",
+    "RESTful API design & system architecture"
+  ],
+  "stats": [
+    {
+      "value": "76%",
+      "label": "B.Sc. Academics",
+      "subtext": "SV University, Tirupati"
+    },
+    {
+      "value": "2021",
+      "label": "Graduation Year",
+      "subtext": "Bachelor of Science"
+    },
+    {
+      "value": "~2 Yrs",
+      "label": "Platform Experience",
+      "subtext": "EZSTAF AI Recruitment"
+    },
+    {
+      "value": "20+",
+      "label": "Verified Tech & Tools",
+      "subtext": "Comprehensive Stack"
+    }
+  ],
+  "pillars": [
+    {
+      "title": "AI & LLM Integration",
+      "description": "Integrating Mistral-based LLM chatbots with MCP servers, Sentence Transformers embeddings, and Pinecone vector retrieval for candidate ranking.",
+      "icon": "Sparkles",
+      "highlights": ["Mistral & MCP Tools", "Sentence Transformers", "Vector Embeddings", "Pinecone"]
+    },
+    {
+      "title": "Backend & API Engineering",
+      "description": "Architecting asynchronous REST APIs with FastAPI, SQLAlchemy ORM, Pydantic validation, and secure authentication.",
+      "icon": "Server",
+      "highlights": ["FastAPI", "REST APIs", "SQLAlchemy", "Async Python"]
+    },
+    {
+      "title": "Full-Stack & Mobile Development",
+      "description": "Crafting cross-platform mobile apps using Flutter and responsive, accessible web interfaces in React and Next.js.",
+      "icon": "Layers",
+      "highlights": ["Flutter / Dart", "React & Next.js", "TypeScript", "Responsive UI"]
+    },
+    {
+      "title": "Databases & Data Engineering",
+      "description": "Designing relational schemas with PostgreSQL and MySQL, and exploring data transformation pipelines with Snowflake and PySpark.",
+      "icon": "Database",
+      "highlights": ["PostgreSQL", "MySQL", "Snowflake", "PySpark & S3"]
+    }
+  ],
+  "socials": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/shahabazshaik123",
+      "label": "github.com/shahabazshaik123",
+      "icon": "Github",
+      "isConfigured": true
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shahabaz-shaik-8838173b1",
+      "label": "linkedin.com/in/shahabaz-shaik-8838173b1",
+      "icon": "Linkedin",
+      "isConfigured": true
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:shahabaz.shaik812@gmail.com",
+      "label": "shahabaz.shaik812@gmail.com",
+      "icon": "Mail",
+      "isConfigured": true
+    }
+  ]
+}

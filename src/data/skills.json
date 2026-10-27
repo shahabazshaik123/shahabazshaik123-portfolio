@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ai-search",
+    "title": "AI & LLM Applications",
+    "description": "Mistral-based LLM chatbots, Model Context Protocol (MCP) tool integration, RAG, and vector retrieval pipelines.",
+    "icon": "Sparkles",
+    "skills": [
+      { "name": "LLM Integration & Chatbots", "level": "Core", "icon": "Cpu", "highlight": true },
+      { "name": "MCP Tool Integration", "level": "Core", "icon": "Workflow", "highlight": true },
+      { "name": "Sentence Transformers", "level": "Core", "icon": "Brain", "highlight": true },
+      { "name": "Pinecone Vector Search", "level": "Core", "icon": "Database", "highlight": true },
+      { "name": "RAG & Candidate Matching", "level": "Core", "icon": "Search", "highlight": true }
+    ]
+  },
+  {
+    "id": "backend",
+    "title": "Backend Engineering",
+    "description": "High-throughput asynchronous APIs, ORM data layers, validation schemas, and defined JSON contracts.",
+    "icon": "Server",
+    "skills": [
+      { "name": "FastAPI", "level": "Core", "icon": "Zap", "highlight": true },
+      { "name": "RESTful API Design", "level": "Core", "icon": "Network", "highlight": true },
+      { "name": "SQLAlchemy ORM", "level": "Core", "icon": "Layers", "highlight": true },
+      { "name": "Pydantic Validation", "level": "Core", "icon": "CheckCircle2", "highlight": true },
+      { "name": "Asynchronous Python", "level": "Proficient", "icon": "Workflow", "highlight": true }
+    ]
+  },
+  {
+    "id": "frontend-mobile",
+    "title": "Frontend & Mobile",
+    "description": "Multi-platform client engineering across mobile devices with Flutter and modern web apps with React & Next.js.",
+    "icon": "Smartphone",
+    "skills": [
+      { "name": "Flutter", "level": "Core", "icon": "Smartphone", "highlight": true },
+      { "name": "Dart", "level": "Core", "icon": "Code2", "highlight": true },
+      { "name": "Layered Architecture", "level": "Proficient", "icon": "Layers", "highlight": true },
+      { "name": "React & Next.js", "level": "Proficient", "icon": "Atom", "highlight": true },
+      { "name": "Responsive UI & Tailwind", "level": "Proficient", "icon": "Layout", "highlight": true }
+    ]
+  },
+  {
+    "id": "languages",
+    "title": "Programming Languages",
+    "description": "Core typed and dynamic programming languages for backend services, mobile apps, and data systems.",
+    "icon": "Code2",
+    "skills": [
+      { "name": "Python", "level": "Core", "icon": "FileCode2", "highlight": true },
+      { "name": "Dart", "level": "Core", "icon": "Code2", "highlight": true },
+      { "name": "SQL", "level": "Core", "icon": "Database", "highlight": true },
+      { "name": "TypeScript", "level": "Proficient", "icon": "FileCode", "highlight": true },
+      { "name": "JavaScript", "level": "Proficient", "icon": "FileText", "highlight": true }
+    ]
+  },
+  {
+    "id": "databases-data",
+    "title": "Databases & Data Engineering",
+    "description": "Relational data modeling, foreign-key relationships, serverless databases, and search engines.",
+    "icon": "Database",
+    "skills": [
+      { "name": "PostgreSQL", "level": "Core", "icon": "Database", "highlight": true },
+      { "name": "Neon DB", "level": "Core", "icon": "Database", "highlight": true },
+      { "name": "Elasticsearch", "level": "Proficient", "icon": "Search", "highlight": true },
+      { "name": "MySQL", "level": "Proficient", "icon": "Database", "highlight": true },
+      { "name": "Snowflake", "level": "Practical", "icon": "CloudRain", "highlight": true },
+      { "name": "Data Seeding & Validation", "level": "Core", "icon": "CheckCircle2", "highlight": true }
+    ]
+  },
+  {
+    "id": "tools-cloud",
+    "title": "Developer Tools & AI-Assisted Dev",
+    "description": "Version control, API testing tools, database clients, and modern AI-assisted engineering workflows.",
+    "icon": "Wrench",
+    "skills": [
+      { "name": "Git & GitHub", "level": "Core", "icon": "GitBranch", "highlight": true },
+      { "name": "Git Bash", "level": "Core", "icon": "Terminal", "highlight": true },
+      { "name": "Postman", "level": "Core", "icon": "Send", "highlight": true },
+      { "name": "Swagger UI & OpenAPI", "level": "Core", "icon": "FileText", "highlight": true },
+      { "name": "DBeaver", "level": "Proficient", "icon": "Layers", "highlight": true },
+      { "name": "AI-Assisted Development", "level": "Core", "icon": "Sparkles", "highlight": true }
+    ]
+  }
+]
